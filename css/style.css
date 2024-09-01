@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.odin-title {
+  color: #ff4500;
+}
+
+.tiana-title {
+  color: #ffa500;
+}
+
+.lady-title {
+  color: #cf7b37;
+}
+
+.rapunzel-title {
+  color: #ff87c3;
+}
+
+.back {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  display: inline-block;
+}
+
+body {
+  width: 800px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+ul li {
+  list-style: none;
+}
+
+ol li {
+  list-style-position: inside;
+}
+
+p,
+h1,
+h2,
+.back {
+  margin: 24px;
+}
